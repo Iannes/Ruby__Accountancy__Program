@@ -1,7 +1,7 @@
 class Account < Array
 
 		puts "\nWelcome to the best accountancy program in the world!"
-	puts "Here you can create records for your clients, as well\nas calculate balances and credits in their fancy business bank accounts!"
+	puts "Here you can create records for your clients, as well\nas calculate balances and credits !"
 	
 
 	def initialize name
